@@ -1063,11 +1063,90 @@ table.data td:first-child { color: var(--text); font-weight: 500; }
   .job-row { grid-template-columns: 1fr; }
   .footer-top { grid-template-columns: 1fr; }
   .hero-actions .btn { width: 100%; }
-  .logo img { height: 32px; }   /* monogram alone below 480px */
+  .logo img { height: 32px; }   /* full lockup stays legible down to 320px */
 }
 
 @media print {
   .site-header, .site-footer, .cta-band, .to-top, .mobile-nav, .filter-bar { display: none !important; }
   body { background: #fff; }
   .section { padding: 24px 0; }
+}
+
+/* --------------------------------------------------------------------------
+   18. Additions — solutions, contact, notices, illustration wrappers
+   -------------------------------------------------------------------------- */
+.nav ul { display: flex; align-items: center; gap: 0; }
+.nav-link { white-space: nowrap; padding: 10px 11px; }
+.header-phone { white-space: nowrap; }
+.header-inner { gap: 18px; }
+@media (max-width: 1330px) { .header-phone { display: none; } }
+
+/* wider dropdown for the solutions menu */
+.dropdown--wide { min-width: 340px; }
+.dropdown--wide .mm-desc { font-size: .7rem; }
+
+/* boxed variant of the mega-menu link, reused on service pages */
+.mm-link--boxed {
+  background: var(--white); border: 1px solid var(--line); border-radius: var(--radius);
+  transition: border-color .22s var(--ease), box-shadow .22s var(--ease), transform .22s var(--ease);
+}
+.mm-link--boxed:hover { border-color: var(--line-strong); box-shadow: var(--shadow-md); transform: translateY(-2px); background: var(--white); }
+
+/* chips */
+.chip-row { display: flex; flex-wrap: wrap; gap: 7px; }
+.chip {
+  display: inline-block; padding: 4px 10px; border-radius: 999px;
+  font-size: .6875rem; font-weight: 600; letter-spacing: .02em;
+  background: var(--accent-050); color: var(--accent); border: 1px solid var(--accent-100);
+}
+
+/* illustrations inside cards keep a clean 16:9 crop */
+.post-thumb { background: var(--paper-2); }
+.post-thumb svg { width: 100%; height: 100%; display: block; }
+
+/* notice / disclosure block */
+.notice {
+  display: flex; gap: 14px; align-items: flex-start;
+  padding: 20px 22px; border-radius: var(--radius);
+  background: var(--accent-050); border: 1px solid var(--accent-100);
+  color: var(--text-2); font-size: .9375rem; line-height: 1.65;
+}
+.notice svg { width: 20px; height: 20px; flex: none; margin-top: 2px; color: var(--accent); }
+.notice p { margin: 0; }
+.notice--muted { background: var(--paper-2); border-color: var(--line); }
+.notice--muted svg { color: var(--muted); }
+
+/* address */
+.address-block, .footer-address {
+  font-style: normal; font-size: .9375rem; line-height: 1.75; color: var(--text-2);
+}
+.footer-address { color: var(--muted-dark); font-size: .875rem; margin-top: 18px; }
+
+/* contact quick-cards */
+.contact-cards .card { text-align: left; }
+.contact-value {
+  font-size: 1.0625rem; font-weight: 600; color: var(--accent);
+  margin: 0 0 6px; letter-spacing: -.01em; word-break: break-word;
+}
+.contact-cards .card:hover .contact-value { color: var(--accent-600); }
+
+/* compact check list for sidebars */
+.check-list--sm li { font-size: .8125rem; gap: 9px; }
+.check-list--sm li svg { width: 15px; height: 15px; margin-top: 2px; }
+
+/* feature link block on the blog index */
+.feature-link { display: block; color: inherit; }
+.feature-link:hover h2 { color: var(--accent); }
+.feature-link .figure-panel { transition: box-shadow .24s var(--ease), transform .24s var(--ease); }
+.feature-link:hover .figure-panel { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+
+/* hero illustration sits in a panel rather than a mock window */
+.hero-visual .figure-panel { box-shadow: var(--shadow-lg); border-radius: var(--radius-lg); overflow: hidden; }
+
+@media (max-width: 1120px) {
+  .dropdown--wide { min-width: 300px; }
+}
+@media (max-width: 767px) {
+  .notice { padding: 16px 18px; font-size: .875rem; }
+  .contact-value { font-size: 1rem; }
 }
