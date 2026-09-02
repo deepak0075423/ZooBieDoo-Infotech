@@ -1,0 +1,175 @@
+# ZooBieDoo Infotech
+
+> Engineering and design consultancy based at 4 Bishop Lefroy Road, Kolkata - 700020, India. We build and maintain web platforms, Drupal sites, mobile applications, custom software, cloud infrastructure and data systems for organisations that depend on them. Contact: +91 75959 63707 / info@zoobiedoo.com
+
+ZooBieDoo Infotech works across ten specialist practices and publishes technical writing from its engineering team. The Solutions pages describe problem spaces and architecture rather than named client engagements; no client results, statistics or testimonials are published without client approval.
+
+## Company
+- [Home](https://www.zoobiedoo.com/index.html)
+- [About Us](https://www.zoobiedoo.com/about.html)
+- [Services](https://www.zoobiedoo.com/services.html)
+- [Insights](https://www.zoobiedoo.com/insights.html)
+- [FAQs](https://www.zoobiedoo.com/faqs.html)
+- [Careers](https://www.zoobiedoo.com/careers.html)
+- [Contact Us](https://www.zoobiedoo.com/contact.html)
+- [Privacy Policy](https://www.zoobiedoo.com/privacy-policy.html)
+
+## Services
+- [Web Development](https://www.zoobiedoo.com/services/web-development.html)
+- [Drupal Development & Services](https://www.zoobiedoo.com/services/drupal-development.html)
+- [Mobile App Development](https://www.zoobiedoo.com/services/mobile-app-development.html)
+- [Software Development](https://www.zoobiedoo.com/services/software-development.html)
+- [UI/UX Design](https://www.zoobiedoo.com/services/ui-ux-design.html)
+- [Cloud Solutions](https://www.zoobiedoo.com/services/cloud-solutions.html)
+- [AI & Machine Learning](https://www.zoobiedoo.com/services/ai-machine-learning.html)
+- [DevOps](https://www.zoobiedoo.com/services/devops.html)
+- [Quality Assurance & Testing](https://www.zoobiedoo.com/services/quality-assurance-testing.html)
+- [IT Consulting](https://www.zoobiedoo.com/services/it-consulting.html)
+
+## Solutions
+- [All solutions](https://www.zoobiedoo.com/solutions/index.html)
+- [Operations dashboards and control systems](https://www.zoobiedoo.com/solutions/operations-dashboards.html): A single live picture of an operation for teams currently working from spreadsheets, email and telephone - built around the exceptions rather than the happy path.
+- [Customer portals and self-service booking](https://www.zoobiedoo.com/solutions/customer-portals.html): Self-service that genuinely reduces inbound contact, designed around the moments that decide whether someone completes the task or picks up the phone.
+- [Cloud migration and modernisation](https://www.zoobiedoo.com/solutions/cloud-migration.html): Moving an existing estate to cloud in rehearsed waves, with the landing zone, guardrails and cost attribution established before anything moves.
+- [Forecasting and decision analytics](https://www.zoobiedoo.com/solutions/forecasting-analytics.html): Forecasts that planners actually use, because the system explains itself, shows its uncertainty and records the reasons for overrides.
+- [Document processing and workflow automation](https://www.zoobiedoo.com/solutions/document-automation.html): Extracting structured data from messy real-world documents, with confidence thresholds tuned to the cost of being wrong and people kept on judgement.
+- [Offline-first field and inspection applications](https://www.zoobiedoo.com/solutions/offline-field-applications.html): Applications for people working where connectivity cannot be assumed - designed so being offline is the normal case rather than a degraded one.
+
+## Case studies
+- No client case studies are published. The Solutions pages above describe the problem spaces we build for and the architecture we use, without attributing results to named clients. Client references are available on request via the contact page.
+
+## Blogs
+- [All articles](https://www.zoobiedoo.com/blogs/index.html) - 100 technical articles across 10 topics
+- [AI & Data articles](https://www.zoobiedoo.com/blogs/category-ai.html)
+- [Architecture articles](https://www.zoobiedoo.com/blogs/category-architecture.html)
+- [Cloud articles](https://www.zoobiedoo.com/blogs/category-cloud.html)
+- [Delivery articles](https://www.zoobiedoo.com/blogs/category-delivery.html)
+- [Design articles](https://www.zoobiedoo.com/blogs/category-design.html)
+- [DevOps articles](https://www.zoobiedoo.com/blogs/category-devops.html)
+- [Drupal articles](https://www.zoobiedoo.com/blogs/category-drupal.html)
+- [Mobile articles](https://www.zoobiedoo.com/blogs/category-mobile.html)
+- [QA & Testing articles](https://www.zoobiedoo.com/blogs/category-qa.html)
+- [Web Development articles](https://www.zoobiedoo.com/blogs/category-web.html)
+
+### AI & Data
+- [Retrieval-augmented generation: architecture that holds up in production](https://www.zoobiedoo.com/blogs/rag-architecture-guide.html): A working retrieval pipeline is straightforward. Making it reliable enough to trust with business questions is where the engineering is.
+- [Retrieval is not enough: what makes an enterprise AI assistant reliable](https://www.zoobiedoo.com/blogs/reliable-ai-assistants.html): Connecting a language model to your documents is the straightforward part. The reliability work is everything after that, and it looks nothing like the demonstration.
+- [Evaluating LLM systems: moving beyond it looks about right](https://www.zoobiedoo.com/blogs/llm-evaluation-methods.html): Without an evaluation set, every change to a language model system is argued on anecdote. Building one is the highest-value early task.
+- [AI governance: documentation and controls that satisfy an auditor](https://www.zoobiedoo.com/blogs/ai-governance-framework.html): Governance is largely about being able to explain what a system does, on what data, with what oversight, and to evidence it.
+- [Automating document processing without losing accuracy](https://www.zoobiedoo.com/blogs/document-processing-automation.html): Extracting structured data from real-world documents is achievable. The engineering is in confidence thresholds and review design.
+- [MLOps fundamentals: getting a model from notebook to production](https://www.zoobiedoo.com/blogs/mlops-pipeline-basics.html): Most models that fail in production fail operationally rather than statistically. Reproducibility, deployment and monitoring are the gap.
+- [Time series forecasting for business planning](https://www.zoobiedoo.com/blogs/time-series-forecasting-business.html): Forecasting adds value when planners act on it. That depends more on explaining uncertainty than on squeezing out accuracy.
+- [Choosing AI use cases worth building](https://www.zoobiedoo.com/blogs/ai-use-case-selection.html): Most failed AI projects were poor candidates before any code was written. A short triage saves considerable money.
+- [Prompt engineering for production systems, not demos](https://www.zoobiedoo.com/blogs/prompt-engineering-production.html): Prompts in production are code: versioned, tested and monitored. Treating them as configuration edited in place causes silent regressions.
+- [Data quality: the constraint on most AI projects](https://www.zoobiedoo.com/blogs/data-quality-for-ai.html): Model choice rarely limits an AI project. Data availability, labelling and consistency almost always do.
+- [Managing the cost of AI systems in production](https://www.zoobiedoo.com/blogs/ai-cost-management.html): Inference costs scale with usage in ways that surprise teams. A few architectural decisions control most of the bill.
+- [Computer vision in industrial settings: the conditions decide the outcome](https://www.zoobiedoo.com/blogs/computer-vision-industrial.html): Vision projects succeed or fail on lighting, positioning and consistency far more often than on model architecture.
+
+### Architecture
+- [Modular monolith or microservices: choosing on team shape](https://www.zoobiedoo.com/blogs/modular-monolith-vs-microservices.html): Microservices solve organisational scaling problems and introduce distributed systems problems. Most teams should start with a well-structured monolith.
+- [Choosing a database: relational unless you have a reason](https://www.zoobiedoo.com/blogs/database-selection-guide.html): Relational databases handle the overwhelming majority of business workloads well. Alternatives should be chosen for specific reasons.
+- [Modernising a legacy system without a big-bang rewrite](https://www.zoobiedoo.com/blogs/legacy-system-modernisation.html): Complete rewrites fail at a high rate. Incremental strangulation delivers value earlier and carries far less risk.
+- [Event-driven architecture: decoupling without losing track](https://www.zoobiedoo.com/blogs/event-driven-architecture.html): Events decouple producers from consumers and make the overall flow harder to see. Both effects are real and need managing.
+- [API versioning without breaking your consumers](https://www.zoobiedoo.com/blogs/api-versioning-strategy.html): Versioning is a policy question before it is a technical one. Decide what breaking means and how long you support old versions.
+- [Caching strategies and the invalidation problem](https://www.zoobiedoo.com/blogs/caching-strategies-explained.html): Caching is the cheapest performance improvement available and the easiest way to serve wrong data. Invalidation is the whole difficulty.
+- [Managing technical debt as a business decision](https://www.zoobiedoo.com/blogs/technical-debt-management.html): Technical debt is a trade-off, not a moral failing. Making it visible and costed turns it into a decision rather than an argument.
+- [Integration patterns for connecting business systems](https://www.zoobiedoo.com/blogs/integration-patterns-enterprise.html): Most integration problems are variations on a few known patterns. Choosing deliberately avoids inventing a worse version.
+
+### Cloud
+- [Why cloud migrations overspend, and the three decisions that prevent it](https://www.zoobiedoo.com/blogs/cloud-migration-cost-control.html): The overspend is rarely caused by the cloud itself. It is usually set in motion by three decisions taken in the first few weeks, often by people who did not realise they were making them.
+- [AWS, Azure or Google Cloud: choosing without a religious argument](https://www.zoobiedoo.com/blogs/aws-vs-azure-vs-gcp.html): All three run the same workloads competently. The decision is usually made by existing commitments, data residency and the skills already in your team.
+- [A cloud cost optimisation checklist that does not require re-architecting](https://www.zoobiedoo.com/blogs/cloud-cost-optimisation-checklist.html): A meaningful share of cloud spend on a typical estate is recoverable without changing the architecture at all. Start there.
+- [Do you actually need Kubernetes?](https://www.zoobiedoo.com/blogs/kubernetes-when-you-need-it.html): Kubernetes is excellent at problems many organisations do not have. Here is a straight test for whether you are one of the ones that does.
+- [Disaster recovery in the cloud: objectives, testing and honesty](https://www.zoobiedoo.com/blogs/cloud-disaster-recovery-planning.html): A recovery plan that has never been executed is a document, not a capability. The test is the deliverable.
+- [Setting up a cloud landing zone before you migrate anything](https://www.zoobiedoo.com/blogs/cloud-landing-zone-setup.html): The work you do before the first workload moves determines whether the rest of the migration is uneventful.
+- [Serverless architecture: the trade-offs nobody mentions in the demo](https://www.zoobiedoo.com/blogs/serverless-architecture-tradeoffs.html): Serverless removes operational work and introduces different constraints. Knowing them in advance is the difference between a good fit and a rewrite.
+- [Cloud security posture: the controls that prevent the common incidents](https://www.zoobiedoo.com/blogs/cloud-security-posture.html): Most cloud incidents are not sophisticated. They involve exposed storage, over-permissive roles and credentials that should not exist.
+- [Infrastructure as code: getting the fundamentals right with Terraform](https://www.zoobiedoo.com/blogs/infrastructure-as-code-getting-started.html): Infrastructure as code delivers reproducibility only if state, modules and environments are handled deliberately from the start.
+- [How to assess a workload before migrating it to cloud](https://www.zoobiedoo.com/blogs/cloud-migration-assessment.html): The assessment decides whether each workload is rehosted, replatformed, refactored or retired. Skipping it is why migrations overrun.
+- [Observability and monitoring are not the same thing](https://www.zoobiedoo.com/blogs/observability-vs-monitoring.html): Monitoring tells you a known thing has broken. Observability lets you investigate something you did not anticipate. Production needs both.
+- [Hybrid cloud: integrating what stays on-premise with what moves](https://www.zoobiedoo.com/blogs/hybrid-cloud-integration.html): Most migrations end in a hybrid state for a period, and some end there permanently. Designing for it beats treating it as a temporary embarrassment.
+
+### Delivery
+- [Running agile delivery inside a fixed budget](https://www.zoobiedoo.com/blogs/agile-for-fixed-budgets.html): Fixed budgets and iterative delivery are compatible if scope is the variable. Fixing all three is what causes trouble.
+- [Requirements gathering: asking better questions](https://www.zoobiedoo.com/blogs/requirements-gathering-techniques.html): People describe solutions rather than problems. Getting to the underlying need is most of the analyst's job.
+- [Selecting a technology vendor without relying on the demo](https://www.zoobiedoo.com/blogs/vendor-selection-process.html): Demonstrations show the path the vendor has rehearsed. A structured evaluation shows how the product handles your awkward cases.
+- [Estimating software you have not built before](https://www.zoobiedoo.com/blogs/estimating-unfamiliar-software.html): A fixed price on genuinely novel work is a negotiation about who absorbs uncertainty. There is a more honest structure, and clients increasingly prefer it.
+- [Communicating with stakeholders when a project is in trouble](https://www.zoobiedoo.com/blogs/stakeholder-communication-projects.html): Projects rarely fail suddenly. They fail slowly while everyone hopes it will recover, and the communication failure is what makes it terminal.
+- [What technical due diligence actually examines](https://www.zoobiedoo.com/blogs/technical-due-diligence-checklist.html): Investors and acquirers ask us to assess technology quickly. The findings that change valuations are rarely the ones founders expect.
+- [Choosing a software development partner](https://www.zoobiedoo.com/blogs/choosing-a-development-partner.html): The differences that matter between suppliers are rarely visible in a proposal. Here is what to ask about instead.
+
+### Design
+- [Usability testing when you have no research budget](https://www.zoobiedoo.com/blogs/usability-testing-small-teams.html): Five participants and an afternoon will tell you more about your product than a quarter of internal debate.
+- [Designing interfaces for complex operational workflows](https://www.zoobiedoo.com/blogs/designing-for-complex-workflows.html): Software people use all day has different requirements from software people use occasionally. Optimising for the wrong one makes experts slower.
+- [Implementing design tokens so a rebrand is a configuration change](https://www.zoobiedoo.com/blogs/design-tokens-implementation.html): Tokens turn visual decisions into named values shared by design and code. Naming them well is the whole trick.
+- [Information architecture: organising a site around how people search](https://www.zoobiedoo.com/blogs/information-architecture-websites.html): Most navigation reflects the organisation chart rather than user intent. Card sorting and tree testing fix that cheaply.
+- [Form design: the fastest route to more completions](https://www.zoobiedoo.com/blogs/form-design-best-practices.html): Forms are where most digital transactions succeed or fail. A handful of well-established practices lift completion measurably.
+- [The design system audit worth running before you build one](https://www.zoobiedoo.com/blogs/design-system-audit.html): Design systems are abandoned for organisational reasons more often than design ones. A short assessment up front predicts which ones will survive.
+- [Design handoff that does not lose intent](https://www.zoobiedoo.com/blogs/design-handoff-to-developers.html): Handoff fails when it is a moment rather than a collaboration. The fix is mostly about when engineers are involved.
+- [Implementing dark mode properly](https://www.zoobiedoo.com/blogs/dark-mode-implementation.html): Dark mode is not an inverted palette. Contrast, elevation and imagery all need separate consideration.
+- [Microcopy: the small words that carry the interface](https://www.zoobiedoo.com/blogs/microcopy-that-works.html): Buttons, labels, errors and empty states do more for usability than most visual decisions, and they are usually written last.
+
+### DevOps
+- [Designing a CI/CD pipeline developers will not route around](https://www.zoobiedoo.com/blogs/ci-cd-pipeline-design.html): A pipeline succeeds when it is fast enough to trust and strict enough to matter. Getting that balance wrong is why teams disable checks.
+- [DORA metrics: measuring delivery without gaming the numbers](https://www.zoobiedoo.com/blogs/dora-metrics-explained.html): Four measures describe delivery performance well. They are useful for finding constraints and harmful when used to compare teams.
+- [Secrets management: keeping credentials out of your codebase](https://www.zoobiedoo.com/blogs/secrets-management-practices.html): Credentials in repositories remain one of the most common causes of breach, and it is one of the most preventable.
+- [Blue-green and canary deployments: reducing release risk](https://www.zoobiedoo.com/blogs/blue-green-canary-deployments.html): Progressive delivery limits how many users a bad release can reach. The mechanism matters less than having a rehearsed way back.
+- [Platform engineering: making the right way the easy way](https://www.zoobiedoo.com/blogs/platform-engineering-golden-paths.html): An internal platform succeeds when using it is easier than not using it. Mandates without ergonomics produce workarounds.
+- [Incident response and blameless post-mortems that change something](https://www.zoobiedoo.com/blogs/incident-response-postmortems.html): Most post-mortem processes produce documents nobody reads. A few practices make them produce actual change.
+- [GitOps: making the repository the source of truth for deployment](https://www.zoobiedoo.com/blogs/gitops-deployment-model.html): GitOps gives auditable, reversible deployments by declaring desired state in version control and letting an agent reconcile it.
+- [Container image security: smaller images, fewer problems](https://www.zoobiedoo.com/blogs/container-image-security.html): Most container vulnerabilities come from what you did not need to include. Reducing the image is the most effective single control.
+- [Environment parity: why it works on staging and fails in production](https://www.zoobiedoo.com/blogs/environment-parity-testing.html): Most production-only failures trace to a small set of differences between environments. Closing them is cheaper than debugging the consequences.
+
+### Drupal
+- [Upgrading from Drupal 10 to Drupal 11: what actually changes](https://www.zoobiedoo.com/blogs/drupal-10-to-11-upgrade-guide.html): Drupal 11 is a far smaller step than the Drupal 7 to 9 migration was. Here is what the upgrade touches, what breaks, and the order to do it in.
+- [Content modelling in Drupal: the decisions that shape everything else](https://www.zoobiedoo.com/blogs/drupal-content-modelling-guide.html): Most difficult Drupal builds are content-modelling failures, not code failures. How to model entities, fields and taxonomies so a site stays maintainable.
+- [What Drupal security maintenance actually involves](https://www.zoobiedoo.com/blogs/drupal-security-maintenance.html): Drupal has a strong security team and a predictable advisory process. The risk on most sites is not the platform, it is that nobody is watching the advisories.
+- [Setting up multilingual Drupal without regretting it later](https://www.zoobiedoo.com/blogs/drupal-multilingual-setup.html): Drupal handles translation better than most content platforms, but the decisions you make in the first week determine whether adding a language later is easy or painful.
+- [Drupal or WordPress: choosing on structure, not on preference](https://www.zoobiedoo.com/blogs/drupal-or-wordpress.html): Both are mature and both are capable. The decision should follow how structured your content is, how complex your permissions are, and who has to maintain it in three years.
+- [Drupal performance: where the time actually goes](https://www.zoobiedoo.com/blogs/drupal-performance-optimisation.html): A slow Drupal site is usually slow for a small number of identifiable reasons. Measure before you cache, and cache at the right layer.
+- [Writing a custom Drupal module that other people can maintain](https://www.zoobiedoo.com/blogs/drupal-custom-module-development.html): Custom modules are where Drupal projects accumulate their long-term cost. A few conventions keep them readable and upgradeable.
+- [Drupal theming with Twig: structure that survives a redesign](https://www.zoobiedoo.com/blogs/drupal-theme-development-twig.html): A Drupal theme is a long-lived asset. Template structure, naming and component boundaries determine how much of it survives the next visual refresh.
+- [Migrating from WordPress to Drupal without losing your content or your rankings](https://www.zoobiedoo.com/blogs/drupal-migration-from-wordpress.html): A platform migration is mostly a content mapping exercise and an SEO exercise. The code is the easy part.
+- [Drupal Views: getting listings right without wrecking performance](https://www.zoobiedoo.com/blogs/drupal-views-best-practices.html): Views is one of Drupal's strongest features and one of its easiest ways to build a slow page. A few habits keep listings fast.
+- [Decoupled Drupal: when it is worth it and when it is not](https://www.zoobiedoo.com/blogs/drupal-headless-decoupled.html): Headless Drupal solves real problems and creates new ones. The decision should follow how many consumers the content genuinely has.
+- [Building an accessible Drupal site to WCAG 2.2 AA](https://www.zoobiedoo.com/blogs/drupal-accessibility-compliance.html): Drupal core has good accessibility foundations. Most failures on Drupal sites are introduced by the theme, the content or a contributed module.
+- [Drupal Commerce, WooCommerce or Shopify: choosing an e-commerce platform](https://www.zoobiedoo.com/blogs/drupal-commerce-vs-alternatives.html): The right e-commerce platform depends on how unusual your catalogue and checkout rules are, and how much of the operation is bespoke.
+- [Designing a Drupal editorial experience people will actually use](https://www.zoobiedoo.com/blogs/drupal-editor-experience.html): A content management system is a product used daily by a small group of people. Their experience is usually designed last, if at all.
+
+### Mobile
+- [Native or cross-platform: deciding on evidence rather than preference](https://www.zoobiedoo.com/blogs/native-vs-cross-platform-mobile.html): Both approaches build excellent products. The decision follows device capability requirements, team composition and roadmap shape.
+- [Mobile app performance: startup, frames and battery](https://www.zoobiedoo.com/blogs/mobile-app-performance.html): Users judge an app in the first few seconds. Startup time, scroll smoothness and battery drain are what they actually notice.
+- [App store optimisation: getting found and getting installed](https://www.zoobiedoo.com/blogs/app-store-optimisation.html): Store listings are a search and conversion problem. Most of the available improvement is in the first screenful.
+- [Mobile app security: the client is not a trusted environment](https://www.zoobiedoo.com/blogs/mobile-app-security.html): Anything shipped to a device can be inspected and modified. Security has to live on the server, with the client hardened rather than trusted.
+- [Offline-first is a product decision, not a technical one](https://www.zoobiedoo.com/blogs/offline-first-is-a-product-decision.html): Teams treat connectivity as an implementation detail and then discover the product does not work where it is used. The decision belongs earlier, and higher up.
+- [Offline-first mobile: designing sync that does not lose work](https://www.zoobiedoo.com/blogs/offline-first-mobile-sync.html): Intermittent connectivity is harder to handle than no connectivity. Sync design decides whether the app is trusted in the field.
+- [Mobile accessibility: building apps that work with assistive technology](https://www.zoobiedoo.com/blogs/mobile-accessibility-guide.html): Both platforms provide strong accessibility APIs. Most failures come from custom controls and missing labels rather than from platform limitations.
+- [Mobile release management: staged rollouts and the update problem](https://www.zoobiedoo.com/blogs/mobile-release-management.html): Unlike the web, you cannot instantly fix a mobile release. Staged rollout and remote configuration are how you limit that exposure.
+- [Mobile analytics: measuring the few things that inform decisions](https://www.zoobiedoo.com/blogs/mobile-analytics-that-matter.html): Most apps collect far more events than anyone uses. A small, well-defined set answers more questions than an exhaustive one.
+- [The real cost of maintaining a mobile app after launch](https://www.zoobiedoo.com/blogs/mobile-app-maintenance-costs.html): Launch is the beginning of the cost, not the end. Operating system releases, store policy and dependency churn all arrive whether or not you are changing the product.
+
+### QA & Testing
+- [Test automation strategy: automating the right things](https://www.zoobiedoo.com/blogs/test-automation-strategy.html): Suites get abandoned when they are slow, flaky or testing the wrong level. A deliberate strategy prevents all three.
+- [Performance testing: finding the limit before your users do](https://www.zoobiedoo.com/blogs/performance-testing-guide.html): Performance tests answer specific questions. Running load without a question produces numbers nobody can act on.
+- [API testing: the layer that gives the best return](https://www.zoobiedoo.com/blogs/api-testing-strategy.html): API tests run faster than interface tests and break less often than unit tests when internals change. They are the most cost-effective layer for most systems.
+- [Accessibility testing: what automation finds and what it misses](https://www.zoobiedoo.com/blogs/accessibility-testing-methods.html): Automated tools identify a portion of accessibility barriers. The rest need a person, a keyboard and a screen reader.
+- [Application security testing aligned to OWASP](https://www.zoobiedoo.com/blogs/security-testing-owasp.html): Most exploited vulnerabilities fall into a small number of well-understood categories. Testing for those systematically catches most of the risk.
+- [Shift-left testing: catching defects where they are cheap](https://www.zoobiedoo.com/blogs/shift-left-testing.html): The cost of a defect rises with how late it is found. Shifting testing earlier is mostly about involving testers before code exists.
+- [Keeping a regression suite useful as it grows](https://www.zoobiedoo.com/blogs/regression-testing-at-scale.html): Every regression suite eventually becomes slow and partly redundant. Managing that deliberately keeps it valuable.
+- [Quality metrics worth reporting to the business](https://www.zoobiedoo.com/blogs/qa-metrics-that-matter.html): Most QA reporting counts activity. A few measures actually describe quality and inform decisions.
+
+### Web Development
+- [Core Web Vitals: what each metric measures and how to fix it](https://www.zoobiedoo.com/blogs/core-web-vitals-guide.html): LCP, INP and CLS measure different failures with different causes. Knowing which metric is failing tells you almost exactly where to look.
+- [Choosing a headless CMS: the questions that actually matter](https://www.zoobiedoo.com/blogs/headless-cms-comparison.html): Most headless CMS comparisons focus on features every product has. The decisions that matter are about content modelling, editorial experience and exit cost.
+- [Redirect strategy for a website rebuild: protecting what you already rank for](https://www.zoobiedoo.com/blogs/website-redirect-strategy.html): The single most common commercial mistake in a replatform is losing the URLs that already bring in traffic. A redirect map is cheap insurance.
+- [Progressive Web Apps: when the web is the better delivery channel](https://www.zoobiedoo.com/blogs/progressive-web-apps-business-case.html): A PWA avoids app store distribution and gives one codebase. It also gives up some platform capability. Here is how the trade actually falls.
+- [Technical SEO fundamentals for a business website](https://www.zoobiedoo.com/blogs/technical-seo-fundamentals.html): Technical SEO is mostly about making a site easy to crawl, easy to understand and fast. None of it is exotic and most of it is done once.
+- [A practical route to WCAG 2.2 AA on an existing website](https://www.zoobiedoo.com/blogs/web-accessibility-wcag-guide.html): Accessibility remediation on a live site works best as a prioritised programme rather than an attempt to fix everything at once.
+- [Designing an API your own front end will not fight](https://www.zoobiedoo.com/blogs/api-design-for-web-applications.html): Most internal API pain comes from a handful of decisions: resource shape, error handling, pagination and versioning. Getting them right early is cheap.
+- [Building a component library that survives contact with deadlines](https://www.zoobiedoo.com/blogs/design-systems-for-web-teams.html): Component libraries fail for organisational reasons more often than technical ones. Governance, escape hatches and adoption metrics decide the outcome.
+- [HTTP security headers every business website should set](https://www.zoobiedoo.com/blogs/web-security-headers.html): A handful of response headers remove entire categories of attack. They cost nothing to add and are missing from most sites.
+- [React, Vue or no framework: choosing for a business website](https://www.zoobiedoo.com/blogs/choosing-a-frontend-framework.html): The framework question is usually decided by team skills and by how much of the page is genuinely interactive, not by benchmarks.
+- [What actually makes a business landing page convert](https://www.zoobiedoo.com/blogs/conversion-focused-landing-pages.html): Most landing page advice is cosmetic. The changes that move conversion are about clarity, friction and matching the promise that brought the visitor.
+
+## Optional
+- [Sitemap](https://www.zoobiedoo.com/sitemap.xml)

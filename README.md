@@ -10,21 +10,44 @@ python3 -m http.server 8000
 
 ---
 
-## Pages (32)
+## Pages (142)
 
 | Section | Files |
 | --- | --- |
 | Home | `index.html` |
 | About Us | `about.html` |
 | Services | `services.html` + 10 pages in `services/` |
-| Solutions | `solutions.html` + 6 `solution-*.html` |
+| Solutions | `solutions/index.html` + 6 pages in `solutions/` |
 | Insights | `insights.html` |
-| — Blogs | `blog.html` + 6 `blog-*.html` |
+| — Blogs | `blogs/` — 100 posts, 7 paginated index pages, 10 category pages |
 | — FAQs | `faqs.html` |
 | Careers | `careers.html` |
 | Contact Us | `contact.html` |
 | Privacy Policy | `privacy-policy.html` |
-| SEO | `sitemap.xml`, `robots.txt` |
+| SEO / AI | `sitemap.xml`, `robots.txt`, `llms.txt` |
+
+### Blog structure
+
+```
+blogs/
+├── index.html          page 1 of the listing (16 per page)
+├── page-2..7.html      remaining pages, real crawlable URLs
+├── category-<topic>.html   one indexable page per topic (10)
+└── <slug>.html         100 articles
+```
+
+Each article carries: a key-takeaways block, five sections, a three-question FAQ
+with `FAQPage` structured data, a topic-specific featured graphic, a canonical URL,
+a keywords meta tag, internal links to the related service and solution, and a CTA.
+
+### SEO and AI discoverability
+
+- `sitemap.xml` — all 142 pages with `lastmod`, `changefreq` and `priority`.
+- `llms.txt` — structured summary at the root for language models, with sections for
+  Company, Services, Solutions, Case studies, Blogs (every post, grouped by topic).
+- Every page has a unique title, unique meta description, a single `h1` and a canonical URL.
+- Verified: sitemap, `llms.txt` and the files on disk match exactly, with no duplicates
+  and no broken or missing URLs.
 
 **Services (10):** Web Development, **Drupal Development & Services**, Mobile App Development,
 Software Development, UI/UX Design, Cloud Solutions, AI & Machine Learning, DevOps,
