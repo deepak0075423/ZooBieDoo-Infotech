@@ -77,7 +77,7 @@ ZooBieDoo Infotech works across ten specialist practices and publishes technical
 
 ### Cloud
 - [Why cloud migrations overspend, and the three decisions that prevent it](https://www.zoobiedoo.com/blogs/cloud-migration-cost-control.html): The overspend is rarely caused by the cloud itself. It is usually set in motion by three decisions taken in the first few weeks, often by people who did not realise they were making them.
-- [AWS, Azure or Google Cloud: choosing without a religious argument](https://www.zoobiedoo.com/blogs/aws-vs-azure-vs-gcp.html): All three run the same workloads competently. The decision is usually made by existing commitments, data residency and the skills already in your team.
+- [AWS, Azure, Google Cloud or Oracle: choosing without a religious argument](https://www.zoobiedoo.com/blogs/aws-azure-google-cloud-oracle.html): All four run the same workloads competently. The decision usually follows existing commitments, data residency and the skills already in your team.
 - [A cloud cost optimisation checklist that does not require re-architecting](https://www.zoobiedoo.com/blogs/cloud-cost-optimisation-checklist.html): A meaningful share of cloud spend on a typical estate is recoverable without changing the architecture at all. Start there.
 - [Do you actually need Kubernetes?](https://www.zoobiedoo.com/blogs/kubernetes-when-you-need-it.html): Kubernetes is excellent at problems many organisations do not have. Here is a straight test for whether you are one of the ones that does.
 - [Disaster recovery in the cloud: objectives, testing and honesty](https://www.zoobiedoo.com/blogs/cloud-disaster-recovery-planning.html): A recovery plan that has never been executed is a document, not a capability. The test is the deliverable.

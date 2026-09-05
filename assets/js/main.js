@@ -26,6 +26,10 @@
     var items = $$('.nav-item.has-menu');
     if (!items.length) return;
     var closeTimer;
+    // A pointer that can hover already reveals the panel, so a click on the
+    // parent should follow the link to that section's landing page. Touch
+    // devices get the usual two-step: first tap opens, second tap follows.
+    var canHover = window.matchMedia('(hover: hover)').matches;
 
     function closeAll(except) {
       items.forEach(function (item) {
@@ -60,8 +64,9 @@
         closeTimer = window.setTimeout(close, 140);
       });
       trigger.addEventListener('click', function (e) {
+        if (canHover || item.classList.contains('is-open')) return; // let the link navigate
         e.preventDefault();
-        item.classList.contains('is-open') ? close() : open();
+        open();
       });
       item.addEventListener('focusin', open);
       item.addEventListener('focusout', function (e) {

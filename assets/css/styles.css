@@ -849,9 +849,17 @@ p:last-child { margin-bottom: 0; }
   border: 1px solid var(--line); border-radius: var(--radius); background: var(--white); overflow: hidden;
 }
 .figure-panel svg { width: 100%; height: auto; display: block; }
-.figure-panel--wide { aspect-ratio: 3 / 1; }
+/* Article and solution banners. The artwork is authored at 480x270 and uses
+   preserveAspectRatio="slice", so a container with any other ratio crops it -
+   a 3/1 banner hid 41% of the graphic, including its labels. Match the ratio
+   and cap the width so the banner stays a sensible height. */
+.figure-panel--wide {
+  aspect-ratio: 16 / 9;
+  max-width: 860px;
+  margin-left: auto;
+  margin-right: auto;
+}
 .figure-panel--wide svg { height: 100%; width: 100%; }
-@media (max-width: 767px) { .figure-panel--wide { aspect-ratio: 16 / 9; } }
 
 /* Data table */
 .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--white); }
